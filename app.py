@@ -5,12 +5,12 @@ import base64
 from io import BytesIO
 
 st.set_page_config(
-    page_title="Mandala Art Generator",
+    page_title="Mandala Art Generator - Workshop",
     page_icon="🎨",
     layout="centered"
 )
 
-st.title("🎨 Mandala Art Generator")
+st.title("🎨 Mandala Art Generator - New Things")
 st.write("Generate black-and-white mandala coloring pages using OpenAI.")
 
 # Secure API Key Input
